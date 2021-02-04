@@ -1,5 +1,5 @@
 {
-    "items": [
+    "items": [                
         {
             "type": "tshirt", 
             "gender": "female",
@@ -15,18 +15,32 @@
             "image":"../img/pink_t.png"
         },
         {
-            "type": "tshirt", 
+            "type": "pants", 
             "gender": "female",
             "size": "large", 
-            "color": "pink",
-            "image":"../img/pink_t.png"
+            "color": "blue",
+            "image":"../img/blue_p.png"
         },
         {
-            "type": "tshirt", 
+            "type": "pants", 
             "gender": "female",
             "size": "large", 
-            "color": "pink",
-            "image":"../img/pink_t.png"
+            "color": "blue",
+            "image":"../img/blue_p.png"
+        },
+        {
+            "type": "skirt", 
+            "gender": "male",
+            "size": "small", 
+            "color": "yellow",
+            "image":"../img/yellow_s.png"
+        },
+        {
+            "type": "skirt", 
+            "gender": "male",
+            "size": "small", 
+            "color": "yellow",
+            "image":"../img/yellow_s.png"
         }
     ]
 }
