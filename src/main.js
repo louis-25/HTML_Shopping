@@ -1,5 +1,5 @@
 function loadItems() {
-    return fetch('./data/data.json')
+    return fetch('../data/data.json')
     .then(response => response.json()) //response데이터가 성곡적으로 받아지면 json으로 변환
     .then(json => json.items);
 }
