@@ -19,28 +19,28 @@
             "gender": "female",
             "size": "large", 
             "color": "blue",
-            "image":"../imgs/clothes/pink_t.png"
+            "image":"../imgs/clothes/blue_p.png"
         },
         {
             "type": "pants", 
             "gender": "female",
             "size": "large", 
             "color": "blue",
-            "image":"../imgs/clothes/pink_t.png"
+            "image":"../imgs/clothes/blue_p.png"
         },
         {
             "type": "skirt", 
             "gender": "male",
             "size": "small", 
             "color": "yellow",
-            "image":"../imgs/clothes/pink_t.png"
+            "image":"../imgs/clothes/yellow_s.png"
         },
         {
             "type": "skirt", 
             "gender": "male",
             "size": "small", 
             "color": "yellow",
-            "image":"../imgs/clothes/pink_t.png"
+            "image":"../imgs/clothes/yellow_s.png"
         }
     ]
 }
